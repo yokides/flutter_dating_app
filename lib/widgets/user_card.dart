@@ -1,6 +1,5 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_dating_app/models/models.dart';
 
 class UserCard extends StatelessWidget {
@@ -21,7 +20,7 @@ class UserCard extends StatelessWidget {
         right: 35,
       ),
       child: SizedBox(
-        height: MediaQuery.of(context).size.height / 1.7,
+        height: MediaQuery.of(context).size.height / 1.6,
         width: MediaQuery.of(context).size.width,
         child: Stack(
           children: [

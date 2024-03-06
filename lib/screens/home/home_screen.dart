@@ -93,7 +93,7 @@ class _HomeScreenState extends State<HomeScreen> {
               _draggable,
               const Padding(
                 padding: EdgeInsets.symmetric(
-                  vertical: 20.0,
+                  vertical: 12.0,
                   horizontal: 50,
                 ),
                 child: Row(

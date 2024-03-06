@@ -15,7 +15,7 @@ class UserCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.only(
-        top: 40,
+        top: 25,
         left: 35,
         right: 35,
       ),
